@@ -18,3 +18,4 @@ for number in range(1, 6):
     print(number)
 
 # task: use a for loop to print the numbers from 1 to 10
+
