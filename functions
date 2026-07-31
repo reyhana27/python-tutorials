@@ -1,0 +1,17 @@
+# Functions in Python allow you to reuse a block of code
+
+# def is used to create a function
+# The function's name comes after def
+
+# Parameters are variables placed inside the parentheses
+
+# return sends a result back when the function is called
+
+def add_numbers(a, b):
+    result = a + b
+    return result
+
+answer = add_numbers(5, 3)  # calls the function and returns 8
+print(answer)
+
+# task: create a function named multiply_numbers that returns two numbers multiplied
